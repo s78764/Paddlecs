@@ -2,16 +2,17 @@
 
 
 == *Analyst*
-
+- Platz für Fragen
 
 
 == *Developer*
-
+- Platz für Fragen
 
 == *Architect*
-
+- Wie funktioniert die Vermietung kann man überall zurückgeben oder an Stationen Was muss geortet werden Kunde ? Boot
 
 == *Tester*
-
+- Platz für Fragen
 
 == *Deployment - Engeneer*
+- Platz für Fragen
