@@ -1,0 +1,17 @@
+= *Fragen für den Kunden*
+
+
+== *Analyst*
+
+
+
+== *Developer*
+
+
+== *Architect*
+
+
+== *Tester*
+
+
+== *Deployment - Engeneer*
