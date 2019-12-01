@@ -2,7 +2,10 @@
 
 
 == *Analyst*
-- Platz für Fragen
+- Welche/Wie viele verschiedene Bootvarianten gibt es?
+- Nutzerprofil ein Muss?
+- Andere Bestandteile der Website (Liste möglicher Abstellorte (buchbare Touren), Vorstellung des Bootkonzepts, Preisliste, Kontaktformular bei Fragen)
+- Bezahlungsarten?
 
 
 == *Developer*
