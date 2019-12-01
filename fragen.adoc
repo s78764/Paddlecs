@@ -19,4 +19,6 @@
 - Platz für Fragen
 
 == *Deployment - Engeneer*
-- Platz für Fragen
+- Eigenen Server? Server von Hosting Firma? Microsoft Azure?
+- Wie viele Leute werden es ca. Benutzen? Wenige = eventuell kostenloser Server von Hosting Firma
+                                          Viele  = Preis steigt
