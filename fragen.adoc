@@ -9,7 +9,8 @@
 
 
 == *Developer*
-- Platz für Fragen
+- Mobile Webansicht/ Hyprid App oder nativ App?
+- Welche Admin Funktionen (Statistik, Auswertung, etc.) werden benötigt?
 
 == *Architect*
 - Wie funktioniert die Vermietung kann man überall zurückgeben oder an Stationen Was muss geortet werden Kunde ? Boot
