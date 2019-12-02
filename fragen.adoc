@@ -19,6 +19,10 @@
 - Fragen bezüglich der Phasen
 - Präferenzen der Nutzerprofile können automatisch vom Verleiher berücksichtig werden?
 - Gibt es Abhängigkeiten zu anderen Systemen / Services? (z.B.: Gibt es bereits ein System, in dem die Boote verwaltet werden?)
+- Sollen Bootkonfigurationen durch Verleiher änderbar sein?
+- Vorgaben für Backup und Verfügbarkeit?
+- Wie hoch ist die maximale Anzahl der gleichzeitigen Benutzer, mit denen das System noch stabil laufen soll?
+- Stornierung von Buchungen?
 
 == *Architect*
 - Wie funktioniert die Vermietung kann man überall zurückgeben oder an Stationen Was muss geortet werden Kunde ? Boot
