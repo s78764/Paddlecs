@@ -9,13 +9,13 @@ Vorname Nachname <email@domain.org>; Vorname2 Nachname2 <email2@domain.org>; Vor
 
 
 == Einführung
-Der Zweck dieses Dokuments ist es, die wesentlichen Bedarfe und Funktionalitäten des <Projektname-Systems> zu sammeln, zu analysieren und zu definieren. Der Fokus liegt auf den Fähigkeiten, die von Stakeholdern und adressierten Nutzern benötigt werden, und der Begründung dieser Bedarfe. Die  Details, wie das <Projektname-System> diese Bedarfe erfüllt, werden in der Use-Case und Supplementary Specification beschrieben.
+Der Zweck dieses Dokuments ist es, die wesentlichen Bedarfe und Funktionalitäten des Projekts Paddlec zu sammeln, zu analysieren und zu definieren. Der Fokus liegt auf den Fähigkeiten, die von Stakeholdern und adressierten Nutzern benötigt werden, und der Begründung dieser Bedarfe. Die  Details, wie das Projekt Paddlecs diese Bedarfe erfüllt, werden in der Use-Case und Supplementary Specification beschrieben.
 
 === Zweck
 Der Zweck dieses Dokuments ist es, die wesentlichen Anforderungen an das System aus Sicht und mit den Begriffen der künftigen Anwender zu beschreiben.
 
 === Gültigkeitsbereich (Scope)
-Dieses Visions-Dokument bezieht sich auf das <Projektthema-System>, das von <Team> entwickelt wird. Das System wird es <Zielkunde/Auftraggeber> erlauben, <Hauptfunktionen> zu nutzen, um damit <Vorteile> zu erreichen / <Aufgabe> zu erleichtern / <Problem> zu lösen.
+Dieses Visions-Dokument bezieht sich auf das Projekt Paddlec, das von Team 10 entwickelt wird. Das System wird es Rene Budich, M.Sc. erlauben, ein Online-Buchungstool zu nutzen, um damit Reservierungen von Booten zu erleichtern.
 
 === Definitionen, Akronyme und Abkürzungen
 siehe Glossar (Verweis hier einfügen).
@@ -25,16 +25,19 @@ siehe Glossar (Verweis hier einfügen).
 
 == Positionierung
 === Fachliche Motivation
+Im Projekt PADELLEC soll eine bedarfsgerechte elektrische Schubunterstützung von Paddelbooten und Kajaks entwickelt werden. Es soll damit das Prinzip des Peddelecs, auf dem Wasser umgesetzt werden. Das Padellec ist ein elektrisches Wasserfahrzeug auf Basis eines klassischen Bootsrumpfs. Dies kann je nach Sportgebiet, Ambitionen oder Präferenzen zum Beispiel ein Kajak oder Kanu sein. 
+
+Im Rahmen dieses Projektes soll ein dezentrales, cloud-basiertes Buchungsportal erarbeitet werden, um eine Vermarktung der Boote zu ermöglichen.
 //Erläutern Sie kurz den Hintergrund, in dem das Projekt angesiedelt ist. Welches Problem soll gelöst werden, wie ist es entstanden? Welche Verbesserung wird angestrebt. Achten Sie darauf, eine fachliche (organisatorische, betriebswirtschaftliche) Perspektive einzunehmen.
 
 === Problem Statement
 //Stellen Sie zusammenfassend das Problem dar, das mit diesem Projekt gelöst werden soll. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Das Problem |	[beschreiben Sie das Problem]
-|betrifft |	[die Stakeholder, die vom Problem betroffen sind]
-|die Auswirkung davon ist |	[welche Auswirkungen hat das Problem?]
-|eine erfolgreiche Lösung wäre |	[Führen Sie einige wesentliche Vorteile einer erfolgreichen Lösung auf]
+|Das Problem |	ist fehlende Vermarktung von Paddlec-Booten
+|betrifft |	den Auftraggeber (Rene Budich), die Kunden, evtl. Mitarbeiter
+|die Auswirkung davon ist |	keine Buchungen von Paddlec-Booten
+|eine erfolgreiche Lösung wäre |	ein Online-Buchungsportal.
 |===
 
 ////
@@ -53,12 +56,12 @@ Beispiel
 //Geben Sie in knapper Form übersichtsartig die Positionierung der angestrebten Lösung im Vergleich zu verfügbaren Alternativen dar. Das folgende Format kann dazu verwendet werden:
 
 |===
-|Für|	[Zielkunde / Nutzer]
-|der / die|	[Angabe des Bedarfs oder Chance]
-|Das Produkt / die Lösung ist ein | [Produktkategorie]
-|Die / Das	|[Aussage zum Hauptvorteil / Alleinstellungsmerkmal]
-|Im Gegensatz zu	|[wesentliche Lösungsalternative]
-|Unser Produkt|	[Aussage zum Hauptunterschied]
+|Für|	Wassersportinterssierte
+|die|	ein elektrisch unterstütztes Boot ausleihen wollen
+|Das Produkt ist ein | dezentrales, cloud-basiertes Buchungsportal
+|Das	|Verleihstandorte mit jeweiligen Inventarstand anzeigt.
+|Im Gegensatz zu	|herkömmlichen Nachfragen über Verleihstandorte
+|Unser Produkt|	ermöglicht Online-Buchungen mit aktuellen Informationen über Standort und Inventar der Boote.
 |===
 
 
