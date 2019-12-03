@@ -28,7 +28,7 @@
 - Wie funktioniert die Vermietung kann man überall zurückgeben oder an Stationen Was muss geortet werden Kunde ? Boot?
 - Gibt es externe SoftwareSysteme?
 - Wo sollen die Daten liegen? Eigener Server? Server mieten? Müssen wir das bereitstellen
--
+- Gibt es Infrastruckut für den Server?
 
 == *Tester*
 - Platz für Fragen
