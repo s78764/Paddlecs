@@ -1,0 +1,35 @@
+= *Fragen für den Kunden*
+
+
+== *Analyst*
+- Welche/Wie viele verschiedene Bootvarianten gibt es?
+- Nutzerprofil ein Muss?
+- Andere Bestandteile der Website (Liste möglicher Abstellorte (buchbare Touren), Vorstellung des Bootkonzepts, Preisliste, Kontaktformular bei Fragen)
+- Bezahlungsarten?
+
+
+== *Developer*
+- _Platz für Fragen_
+- Mobile Webansicht/ Hyprid App oder nativ App?
+- Welche Admin Funktionen (Statistik, Auswertung, etc.) werden benötigt?
+- Was stellt sich der Themensteller unter den Begriffen "dezentral" und "cloud-basiert" vor?
+- Was ist mit "keine Klarnamen" gemeint?
+- Was sind die wichtigsten Features und welche können im Zweifel vernachlässigt werden?
+* Details zu den wichtigsten Features erfragen
+- Fragen bezüglich der Phasen
+- Präferenzen der Nutzerprofile können automatisch vom Verleiher berücksichtig werden?
+- Gibt es Abhängigkeiten zu anderen Systemen / Services? (z.B.: Gibt es bereits ein System, in dem die Boote verwaltet werden?)
+- Sollen Bootkonfigurationen durch Verleiher änderbar sein?
+- Vorgaben für Backup und Verfügbarkeit?
+- Wie hoch ist die maximale Anzahl der gleichzeitigen Benutzer, mit denen das System noch stabil laufen soll?
+- Stornierung von Buchungen?
+
+== *Architect*
+- Wie funktioniert die Vermietung kann man überall zurückgeben oder an Stationen Was muss geortet werden Kunde ? Boot
+- Gibt es Infrastruckut für den Server?
+
+== *Tester*
+- Platz für Fragen
+
+== *Deployment - Engeneer*
+- Platz für Fragen
