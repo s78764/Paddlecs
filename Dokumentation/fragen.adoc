@@ -34,4 +34,6 @@
 - Platz für Fragen
 
 == *Deployment - Engeneer*
-- Platz für Fragen
+- Wenig Benutzer der Seite?         -> eventuell kostenloses Hosting 
+- Viele Benutzer ?                  -> kostenpflichtiges Hosting
+- Selber Hosten                     -> Kein Dauerbetrieb 
